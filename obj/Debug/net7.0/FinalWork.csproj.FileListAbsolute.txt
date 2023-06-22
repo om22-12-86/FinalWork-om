@@ -1,0 +1,15 @@
+/Users/om/projects/FinalWork/bin/Debug/net7.0/FinalWork
+/Users/om/projects/FinalWork/bin/Debug/net7.0/FinalWork.deps.json
+/Users/om/projects/FinalWork/bin/Debug/net7.0/FinalWork.runtimeconfig.json
+/Users/om/projects/FinalWork/bin/Debug/net7.0/FinalWork.dll
+/Users/om/projects/FinalWork/bin/Debug/net7.0/FinalWork.pdb
+/Users/om/projects/FinalWork/obj/Debug/net7.0/FinalWork.csproj.AssemblyReference.cache
+/Users/om/projects/FinalWork/obj/Debug/net7.0/FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/om/projects/FinalWork/obj/Debug/net7.0/FinalWork.AssemblyInfoInputs.cache
+/Users/om/projects/FinalWork/obj/Debug/net7.0/FinalWork.AssemblyInfo.cs
+/Users/om/projects/FinalWork/obj/Debug/net7.0/FinalWork.csproj.CoreCompileInputs.cache
+/Users/om/projects/FinalWork/obj/Debug/net7.0/FinalWork.dll
+/Users/om/projects/FinalWork/obj/Debug/net7.0/refint/FinalWork.dll
+/Users/om/projects/FinalWork/obj/Debug/net7.0/FinalWork.pdb
+/Users/om/projects/FinalWork/obj/Debug/net7.0/FinalWork.genruntimeconfig.cache
+/Users/om/projects/FinalWork/obj/Debug/net7.0/ref/FinalWork.dll
